@@ -36,3 +36,5 @@ npm run dev
 ```sh
 npm run build
 ```
+
+Site en ligne : https://biblio8.netlify.app
