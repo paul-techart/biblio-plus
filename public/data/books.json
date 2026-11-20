@@ -1,0 +1,14 @@
+[
+  { "id": 1, "title": "Le Petit Prince", "author": "Antoine de Saint-Exupéry", "category": "Roman", "year": 1943, "available": true, "cover": "/covers/petit-prince.jpg", "summary": "Un aviateur échoué dans le désert rencontre un petit prince." },
+  { "id": 2, "title": "Germinal", "author": "Émile Zola", "category": "Roman", "year": 1885, "available": false, "cover": "/covers/germinal.jpg", "summary": "La vie et la révolte des mineurs dans le nord de la France." },
+  { "id": 3, "title": "L'Étranger", "author": "Albert Camus", "category": "Roman", "year": 1942, "available": true, "cover": "/covers/etranger.jpg", "summary": "Un homme indifférent est jugé pour un meurtre en Algérie." },
+  { "id": 4, "title": "Les Misérables", "author": "Victor Hugo", "category": "Roman", "year": 1862, "available": false, "cover": "/covers/miserables.jpg", "summary": "Jean Valjean tente de refaire sa vie après le bagne." },
+  { "id": 5, "title": "Une si longue lettre", "author": "Mariama Bâ", "category": "Roman", "year": 1979, "available": true, "cover": "/covers/longue-lettre.jpg", "summary": "Une veuve sénégalaise écrit à son amie sur sa vie et ses épreuves." },
+  { "id": 6, "title": "Harry Potter à l'école des sorciers", "author": "J. K. Rowling", "category": "Jeunesse", "year": 1997, "available": true, "cover": "/covers/harry-potter.jpg", "summary": "Un jeune orphelin découvre qu'il est un sorcier." },
+  { "id": 7, "title": "Tintin au Tibet", "author": "Hergé", "category": "Jeunesse", "year": 1960, "available": true, "cover": "/covers/tintin-tibet.jpg", "summary": "Tintin part au Tibet à la recherche de son ami Tchang." },
+  { "id": 8, "title": "Matilda", "author": "Roald Dahl", "category": "Jeunesse", "year": 1988, "available": false, "cover": "/covers/matilda.jpg", "summary": "Une petite fille géniale utilise ses pouvoirs contre des adultes cruels." },
+  { "id": 9, "title": "Les Contes du chat perché", "author": "Marcel Aymé", "category": "Jeunesse", "year": 1934, "available": true, "cover": "/covers/chat-perche.jpg", "summary": "Deux fillettes vivent des aventures avec les animaux de la ferme." },
+  { "id": 10, "title": "Sapiens", "author": "Yuval Noah Harari", "category": "Documentaire", "year": 2011, "available": false, "cover": "/covers/sapiens.jpg", "summary": "Une histoire de l'humanité, des premiers hommes à aujourd'hui." },
+  { "id": 11, "title": "Cosmos", "author": "Carl Sagan", "category": "Documentaire", "year": 1980, "available": true, "cover": "/covers/cosmos.jpg", "summary": "Un voyage à travers l'univers et l'histoire de la science." },
+  { "id": 12, "title": "Le Journal d'Anne Frank", "author": "Anne Frank", "category": "Documentaire", "year": 1947, "available": true, "cover": "/covers/anne-frank.jpg", "summary": "Le journal d'une adolescente cachée pendant la guerre." }
+]
